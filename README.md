@@ -1,2 +1,2 @@
-# Music-BotHeroku
-Bot using heroku, 24/7!
+# Music-BotG7E
+G7E Bot, 24/7!
